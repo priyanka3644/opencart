@@ -1,0 +1,18 @@
+20:13:47.0638 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /xl/_rels/workbook.xml.rels
+20:13:47.0681 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:13:47.0685 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /_rels/.rels
+20:13:48.0741 [main] INFO  tests.TC_003_LoginDDT Login_dataDriven -**** starting TC_003_Login using DataProvider **** 
+20:13:54.0207 [main] INFO  tests.TC_003_LoginDDT Login_dataDriven -**** TC_003_Login using dataprovider ended ****
+20:13:54.0235 [main] INFO  tests.TC_003_LoginDDT Login_dataDriven -**** starting TC_003_Login using DataProvider **** 
+20:14:08.0814 [main] INFO  tests.TC_003_LoginDDT Login_dataDriven -**** TC_003_Login using dataprovider ended ****
+20:14:08.0817 [main] INFO  tests.TC_003_LoginDDT Login_dataDriven -**** starting TC_003_Login using DataProvider **** 
+20:14:23.0660 [main] INFO  tests.TC_003_LoginDDT Login_dataDriven -**** TC_003_Login using dataprovider ended ****
+20:14:30.0175 [main] INFO  tests.TC_001_AccountRegistration registerAccount -**** starting TC_001_AccountRegistrationTest ****
+20:14:30.0281 [main] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on MyAccount dropdown
+20:14:30.0965 [main] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on Rgister link
+20:14:30.0973 [main] INFO  tests.TC_001_AccountRegistration registerAccount -Providing customer data
+20:14:34.0685 [main] INFO  tests.TC_001_AccountRegistration registerAccount -Clicked on continue Button
+20:14:34.0748 [main] INFO  tests.TC_001_AccountRegistration registerAccount -Validating expected message
+20:14:34.0748 [main] INFO  tests.TC_001_AccountRegistration registerAccount -**** TC_001_ ended............ ****
+20:14:41.0410 [main] INFO  tests.TC_002_Login login -**** starting TC_002_Login **** 
+20:14:43.0071 [main] INFO  tests.TC_002_Login login -**** TC_002_Login ended ****

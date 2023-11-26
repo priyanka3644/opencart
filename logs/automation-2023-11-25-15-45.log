@@ -1,0 +1,9 @@
+15:45:04.0333 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /xl/_rels/workbook.xml.rels
+15:45:04.0361 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:45:04.0366 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /_rels/.rels
+15:45:14.0421 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /xl/_rels/workbook.xml.rels
+15:45:14.0441 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:45:14.0455 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /_rels/.rels
+15:45:58.0685 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /xl/_rels/workbook.xml.rels
+15:45:58.0719 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:45:58.0726 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /_rels/.rels

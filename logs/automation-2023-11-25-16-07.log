@@ -1,0 +1,9 @@
+16:07:53.0139 [main] INFO  tests.TC_001_AccountRegistration registerAccount -**** starting TC_001_AccountRegistrationTest ****
+16:07:53.0352 [main] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on MyAccount dropdown
+16:07:54.0192 [main] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on Rgister link
+16:07:54.0213 [main] INFO  tests.TC_001_AccountRegistration registerAccount -Providing customer data
+16:07:57.0844 [main] INFO  tests.TC_001_AccountRegistration registerAccount -Clicked on continue Button
+16:07:57.0892 [main] INFO  tests.TC_001_AccountRegistration registerAccount -Validating expected message
+16:07:57.0896 [main] INFO  tests.TC_001_AccountRegistration registerAccount -**** TC_001_ ended............ ****
+16:08:00.0346 [main] INFO  tests.TC_002_Login login -**** starting TC_002_Login **** 
+16:08:05.0223 [main] INFO  tests.TC_002_Login login -**** TC_002_Login ended ****

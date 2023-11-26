@@ -1,0 +1,8 @@
+16:05:29.0163 [main] INFO  tests.TC_001_AccountRegistration registerAccount -**** starting TC_001_AccountRegistrationTest ****
+16:05:29.0347 [main] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on MyAccount dropdown
+16:05:30.0179 [main] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on Rgister link
+16:05:30.0185 [main] INFO  tests.TC_001_AccountRegistration registerAccount -Providing customer data
+16:05:31.0643 [main] INFO  tests.TC_001_AccountRegistration registerAccount -Clicked on continue Button
+16:05:41.0735 [main] ERROR tests.TC_001_AccountRegistration registerAccount -Exception while registering account
+16:05:47.0462 [main] INFO  tests.TC_002_Login login -**** starting TC_002_Login **** 
+16:05:49.0451 [main] INFO  tests.TC_002_Login login -**** TC_002_Login ended ****

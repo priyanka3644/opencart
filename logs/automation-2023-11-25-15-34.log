@@ -1,0 +1,8 @@
+15:34:26.0889 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /xl/_rels/workbook.xml.rels
+15:34:26.0974 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:34:26.0988 [main] DEBUG openxml4j.opc.PackageRelationshipCollection parseRelationshipsPart -Parsing relationship: /_rels/.rels
+15:34:27.0765 [main] INFO  tests.TC_003_LoginDDT Login_dataDriven -**** starting TC_003_Login using DataProvider **** 
+15:34:33.0009 [main] INFO  tests.TC_003_LoginDDT Login_dataDriven -**** TC_003_Login using dataprovider ended ****
+15:34:33.0037 [main] INFO  tests.TC_003_LoginDDT Login_dataDriven -**** starting TC_003_Login using DataProvider **** 
+15:34:44.0715 [main] INFO  tests.TC_003_LoginDDT Login_dataDriven -**** starting TC_003_Login using DataProvider **** 
+15:34:57.0153 [main] INFO  tests.TC_003_LoginDDT Login_dataDriven -**** starting TC_003_Login using DataProvider **** 

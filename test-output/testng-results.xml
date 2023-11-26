@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-25T16:07:45 IST" name="OpenCartSuite" finished-at="2023-11-25T16:08:05 IST" duration-ms="19997">
+    <groups>
+      <group name="Master">
+        <method signature="TC_001_AccountRegistration.registerAccount()[pri:0, instance:tests.TC_001_AccountRegistration@4a83a74a]" name="registerAccount" class="tests.TC_001_AccountRegistration"/>
+        <method signature="TC_002_Login.login()[pri:0, instance:tests.TC_002_Login@3ba987b8]" name="login" class="tests.TC_002_Login"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC_002_Login.login()[pri:0, instance:tests.TC_002_Login@3ba987b8]" name="login" class="tests.TC_002_Login"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC_001_AccountRegistration.registerAccount()[pri:0, instance:tests.TC_001_AccountRegistration@4a83a74a]" name="registerAccount" class="tests.TC_001_AccountRegistration"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2023-11-25T16:07:45 IST" name="OpenCartTest" finished-at="2023-11-25T16:08:05 IST" duration-ms="19997">
+      <class name="tests.TC_002_Login">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:tests.TC_002_Login@3ba987b8]" started-at="2023-11-25T16:07:58 IST" name="setUp" finished-at="2023-11-25T16:08:00 IST" duration-ms="2180" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:0, instance:tests.TC_002_Login@3ba987b8]" started-at="2023-11-25T16:08:00 IST" name="login" finished-at="2023-11-25T16:08:05 IST" duration-ms="4880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TC_002_Login@3ba987b8]" started-at="2023-11-25T16:08:05 IST" name="tearDown" finished-at="2023-11-25T16:08:05 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TC_002_Login -->
+      <class name="tests.TC_001_AccountRegistration">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:tests.TC_001_AccountRegistration@4a83a74a]" started-at="2023-11-25T16:07:46 IST" name="setUp" finished-at="2023-11-25T16:07:53 IST" duration-ms="7071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerAccount()[pri:0, instance:tests.TC_001_AccountRegistration@4a83a74a]" started-at="2023-11-25T16:07:53 IST" name="registerAccount" finished-at="2023-11-25T16:07:57 IST" duration-ms="4793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TC_001_AccountRegistration@4a83a74a]" started-at="2023-11-25T16:07:57 IST" name="tearDown" finished-at="2023-11-25T16:07:58 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TC_001_AccountRegistration -->
+    </test> <!-- OpenCartTest -->
+  </suite> <!-- OpenCartSuite -->
+</testng-results>

@@ -1,0 +1,21 @@
+11:46:59.0859 [TestNG-tests-1] INFO  tests.TC_001_AccountRegistration registerAccount -**** starting TC_001_AccountRegistrationTest ****
+11:47:01.0507 [TestNG-tests-2] INFO  tests.TC_001_AccountRegistration registerAccount -**** starting TC_001_AccountRegistrationTest ****
+11:47:02.0134 [TestNG-tests-2] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on MyAccount dropdown
+11:47:02.0843 [TestNG-tests-1] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on MyAccount dropdown
+11:47:04.0991 [TestNG-tests-2] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on Rgister link
+11:47:04.0998 [TestNG-tests-2] INFO  tests.TC_001_AccountRegistration registerAccount -Providing customer data
+11:47:05.0795 [TestNG-tests-1] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on Rgister link
+11:47:05.0799 [TestNG-tests-1] INFO  tests.TC_001_AccountRegistration registerAccount -Providing customer data
+11:47:10.0280 [TestNG-tests-3] INFO  tests.TC_001_AccountRegistration registerAccount -**** starting TC_001_AccountRegistrationTest ****
+11:47:10.0646 [TestNG-tests-3] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on MyAccount dropdown
+11:47:11.0915 [TestNG-tests-3] INFO  tests.TC_001_AccountRegistration registerAccount -clicked on Rgister link
+11:47:11.0920 [TestNG-tests-3] INFO  tests.TC_001_AccountRegistration registerAccount -Providing customer data
+11:47:12.0395 [TestNG-tests-2] INFO  tests.TC_001_AccountRegistration registerAccount -Clicked on continue Button
+11:47:12.0503 [TestNG-tests-2] INFO  tests.TC_001_AccountRegistration registerAccount -Validating expected message
+11:47:12.0508 [TestNG-tests-2] INFO  tests.TC_001_AccountRegistration registerAccount -**** TC_001_ ended............ ****
+11:47:13.0095 [TestNG-tests-1] INFO  tests.TC_001_AccountRegistration registerAccount -Clicked on continue Button
+11:47:13.0181 [TestNG-tests-1] INFO  tests.TC_001_AccountRegistration registerAccount -Validating expected message
+11:47:13.0182 [TestNG-tests-1] INFO  tests.TC_001_AccountRegistration registerAccount -**** TC_001_ ended............ ****
+11:47:15.0937 [TestNG-tests-3] INFO  tests.TC_001_AccountRegistration registerAccount -Clicked on continue Button
+11:47:15.0997 [TestNG-tests-3] INFO  tests.TC_001_AccountRegistration registerAccount -Validating expected message
+11:47:15.0998 [TestNG-tests-3] INFO  tests.TC_001_AccountRegistration registerAccount -**** TC_001_ ended............ ****
